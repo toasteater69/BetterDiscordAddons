@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://pbs.twimg.com/media/GEfvPEaacAA4UsE?format=jpg&name=large
+	--background:					url(https://pbs.twimg.com/media/GEfvPEaacAA4UsE?format=jpg&name=4096x4096
 		);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
