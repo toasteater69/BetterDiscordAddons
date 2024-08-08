@@ -110,7 +110,7 @@
     width: fit-content;
     margin-left: auto;
     margin-right: 30px;	
-
+}
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.5;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
