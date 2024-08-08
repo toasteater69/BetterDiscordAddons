@@ -53,11 +53,4 @@
 	--textdarkest: 					90,90,90;					/* default: 90,90,90			(text color for the darkest texts)												*/
 	
 	--version1_0_5:					none;						/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE														*/
-
-[data-is-self="true"] .repliedMessage_f9f2ca {
-
-    width: fit-content;
-    margin-left: auto;
-    margin-right: 30px;	
-
 }
